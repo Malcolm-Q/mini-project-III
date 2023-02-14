@@ -34,7 +34,7 @@ In this miniproject, we will:
         - do they have savings account? How much do they save?
         - do they have credit account? How much do they live in debt?
         - are they making lot of small transactions or few huge ones?
-2. visualize the created clusters using [radar charts](https://plotly.com/python/radar-chart/) and compare them agains each other
+2. visualize the created clusters using [radar charts](https://plotly.com/python/radar-chart/) and compare them against each other
 3. visualize segmentations using scatter plot. We will have to use PCA to be able to plot our observations in 2D.
 4. (stretch) visualize in 2D how our clusters are evolving in each iteration of KMeans (for at least 20 iterations).
     - we will need to create own implementation of kmeans so we can see what is happening with the clusters during the iterations.
