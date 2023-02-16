@@ -1,6 +1,15 @@
 # mini-project-III
 Repo with the instructions for the Mini Project III.
 
+Johnathan Jack and Malcolm Kew
+
+### Notebooks
+* [Cleaning](/1-Cleaning.ipynb)
+* [Exploring](/2-EDA.ipynb)
+* [Engineering and Fitting](/3-feature_engi.ipynb)
+* [ML Adventure](/ML_experiments.ipynb)
+
+[Google Slides Presentation](https://docs.google.com/presentation/d/15HTjxquAieorLEbRYuCBMrIdSrtTPYXoLxhqzTm_Q8U/edit?usp=sharing)
 
 ### Topics
 This mini project is dedicated to following topics:
